@@ -37,7 +37,7 @@ body {
     display: grid;
     align-content: center;
     text-align: center;
-    background: linear-gradient(90deg, rgba(35, 41, 69, 1) 0%, rgba(35, 41, 69, 0.2) 35%, rgba(35, 41, 69, 1) 100%), url(/rr-tnt-protein-protein-interactions-1074x737-1.jpg);
+    background: linear-gradient(90deg, rgba(35, 41, 69, 1) 0%, rgba(35, 41, 69, 0.2) 35%, rgba(35, 41, 69, 1) 100%), url(rr-tnt-protein-protein-interactions-1074x737-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--white);
