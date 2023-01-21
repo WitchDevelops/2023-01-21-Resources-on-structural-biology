@@ -63,7 +63,7 @@ main {
 }
 
 button {
-
+    max-width: 90vw;
     padding: 1rem;
     background-color: var(--main-dark);
     border-color: var(--main-dark);
@@ -79,6 +79,24 @@ button:active {
 button a:focus,
 button a:hover,
 button a:active {
+    color: var(--black);
+}
+
+.main {
+    background-color: var(--black);
+}
+
+.main a {
+    color: var(--main);
+}
+
+.main:focus,
+.main:hover,
+.main:active,
+.main a:focus,
+.main a:hover,
+.main a:active {
+    background-color: var(--grey);
     color: var(--black);
 }
 
